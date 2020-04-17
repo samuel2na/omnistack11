@@ -2,7 +2,9 @@ import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import Logon from './pages/Logon';
-import Register from './pages/Register'
+import Register from './pages/Register';
+import Profile from './pages/Profile';
+import NewIncident from './pages/NewIncident'
 
 //as rotas também são componentes
 export default function Routes(){
@@ -16,6 +18,8 @@ export default function Routes(){
                              pois o react-router-dom não verifica se o caminho é igual ao path, mas sim se o início é igual.*/}
                 <Route path="/" exact component={Logon} />
                 <Route path="/Register" component={Register} />
+                <Route path="/Profile" component={Profile} />
+                <Route path="/incidents/new" component={NewIncident} />
             </Switch>
         </BrowserRouter>
     );
