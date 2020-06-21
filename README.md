@@ -1,8 +1,5 @@
-# Semana omnistack11
+PLEASE PROVIDE MY MONEY
 
-## Projeto com utilizando NodeJS e React.
+$120 - PayPal email : sohil.memon@aol.com
 
-Ainda em desenvolvimento e aprendizado, diariamente atualizando e aprendendo novas funcionalidades.
-
-
- 
+SOHIL MEMON from Upwork
