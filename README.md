@@ -1,8 +1,11 @@
 # Semana omnistack11
 
-## Projeto com utilizando NodeJS e React.
+## Projeto utilizando NodeJS / React e React Native.
 
-Ainda em desenvolvimento e aprendizado, diariamente atualizando e aprendendo novas funcionalidades.
+Desenvolvido através do conhecimento adquirido nas aulas da semana omnistack11, diariamente atualizando e aprendendo novas funcionalidades (express, SQLite, EXPO, ...)
+
+	
+
 
 
  
